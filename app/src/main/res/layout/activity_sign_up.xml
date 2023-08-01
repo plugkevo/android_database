@@ -13,7 +13,6 @@
 
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-
     android:paddingBottom="50dp"
     >
 
@@ -165,7 +164,7 @@
         app:layout_constraintTop_toBottomOf="@+id/confirm_password" />
 
     <Button
-        android:id="@+id/btn_login"
+        android:id="@+id/btn_signup"
         android:layout_width="214dp"
         android:layout_height="55dp"
         android:background="@drawable/button"
@@ -188,7 +187,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.313"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btn_login" />
+        app:layout_constraintTop_toBottomOf="@+id/btn_signup" />
 
     <TextView
         android:id="@+id/to_login"
