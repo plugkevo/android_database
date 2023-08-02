@@ -169,7 +169,7 @@
         android:layout_height="55dp"
         android:background="@drawable/button"
         android:padding="16dp"
-        android:text="Login"
+        android:text="sign up"
         android:textColor="#FFFFFF"
         android:textSize="10sp"
         android:textStyle="bold"
